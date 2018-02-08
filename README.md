@@ -17,6 +17,6 @@ Repository containing portfolio of data science projects completed by me for sel
 	- [Neural Networks and Deep-Learning](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Neural-Networks-and-Deep-Learning.pdf): Certificate of the "Neural Networks and Deep-Learning" Coursera course, created from deeplearning.ai and taught by Andrew NG (4 weeks of study). This course covered the foundations of developing deep learning models and the major technology trends driving Deep Learning.
 	- [Version_Control_with_Git](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Version_Control_with_Git.pdf): Certificate of the "Version Control with Git" Coursera course, created from the software company Atlassian (4 weeks of study). Through this course I gained a strong conceptual understanding of Git and learned how to use it in a professional manner. 
 
-
+##
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, write an email at niklas.donges@code.berlin.
