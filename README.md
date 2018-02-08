@@ -11,17 +11,9 @@ Repository containing portfolio of achine Learning projects completed by me for 
 	- [Housing Prices with California Housing Dataset](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Housing-Prices-with-California-Housing-Dataset.ipynb): 
 	In this notebook I explained how to tackle a machine learning from the beginning to the end, at the example of predicting housing prices. I covered everything you need, to build regression system and a lot of tools & techniques, that are common in the machine learning landscape. I got everything I cover in this notebook from the book "Hands-On Machine Learning with Scikit_learn & Tensorflow" from Aurelien Geron. I explained every concept in my own words and wrote the code again by myself. I used the California Housing Dataset from the statlib repository.
 	
-- ### Blogposts
-
-	- [Blogposts published on my own Blog (once a week): machinelearning-blog.com](https://machinelearning-blog.com/): The Random Forest Algorithm, Journey through the Titanic Dataset, Introduction to Pandas, Linear Regression, Time Series Forecasting, Predicting Housing Prices with Linear Regression, Converting categorical features (Label Encoding, One-Hot-Encoding), Visualizing data with Matplotlib, Dimensionality Reduction with T-SNE, The Logistic Regression Algorithm, Machine Learning Project from A to Z, What an ML Engineer needs to know, Activation Functions within Neural Networks, Vectors and Matrixes, Why is Deep Learning taking off ?.
+- ### Blogposts published on my own Blog (once a week): [machinelearning-blog.com](https://machinelearning-blog.com/)
 	
 	
-	
-	
-	
-	
-	
-
 - ### Course Certificates
 
 	- [Machine Learning Foundations: A Case Study Approach](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Machine-Learning-Foundations.pdf): Certificate of the "Machine Learning Foundations: A Case Study Approach" Coursera course, created from the University of Washington (6 weeks of study). I learned how to predict house prices based on house-level features (Regression), analyze sentiment from user reviews (Classification), retrieve documents of interest (Clustering and Similarity), recommend products, and search for images (Deep Learning).
