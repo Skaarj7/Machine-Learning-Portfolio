@@ -10,4 +10,4 @@ Repository containing portfolio of data science projects completed by me for sel
 	In this Notebook I covered the basics of how supervised binary & multiclass classification works. I got everything I cover in this notebook from the book "Hands-On Machine Learning with Scikit_learn & Tensorflow" from Aurelien Geron. I explained every concept in my own words and wrote the code again by myself. I used the famous mnist dataset, which contains 70,000 images of handwritten digits. 
 	
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at niklas.donges@code.berlin. 
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, write an email at niklas.donges@code.berlin. 
