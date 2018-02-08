@@ -10,6 +10,10 @@ Repository containing portfolio of achine Learning projects completed by me for 
 	In this Notebook I covered the basics of how supervised binary & multiclass classification works. I got everything I cover in this notebook from the book "Hands-On Machine Learning with Scikit_learn & Tensorflow" from Aurelien Geron. I explained every concept in my own words and wrote the code again by myself. I used the famous mnist dataset, which contains 70,000 images of handwritten digits. 
 	- [Housing Prices with California Housing Dataset](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Housing-Prices-with-California-Housing-Dataset.ipynb): 
 	In this notebook I explained how to tackle a machine learning from the beginning to the end, at the example of predicting housing prices. I covered everything you need, to build regression system and a lot of tools & techniques, that are common in the machine learning landscape. I got everything I cover in this notebook from the book "Hands-On Machine Learning with Scikit_learn & Tensorflow" from Aurelien Geron. I explained every concept in my own words and wrote the code again by myself. I used the California Housing Dataset from the statlib repository.
+	
+- ### Blogposts
+
+	- [Blogposts published on my own Blog: machinelearning-blog.com](https://machinelearning-blog.com/): An end to end machine learning project that goes among other things through Data Analysis, Data Preprocessing, building and evaluating Machine Learning models with a deep focus on the Random Forest Classifier, including Hyperparameter tuning. 
 
 - ### Course Certificates
 
