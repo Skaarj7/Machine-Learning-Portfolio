@@ -13,7 +13,14 @@ Repository containing portfolio of achine Learning projects completed by me for 
 	
 - ### Blogposts
 
-	- [Blogposts published on my own Blog: machinelearning-blog.com](https://machinelearning-blog.com/): An end to end machine learning project that goes among other things through Data Analysis, Data Preprocessing, building and evaluating Machine Learning models with a deep focus on the Random Forest Classifier, including Hyperparameter tuning. 
+	- [Blogposts published on my own Blog (once a week): machinelearning-blog.com](https://machinelearning-blog.com/): The Random Forest Algorithm, Journey through the Titanic Dataset, Introduction to Pandas, Linear Regression, Time Series Forecasting, Predicting Housing Prices with Linear Regression, Converting categorical features (Label Encoding, One-Hot-Encoding), Visualizing data with Matplotlib, Dimensionality Reduction with T-SNE, The Logistic Regression Algorithm, Machine Learning Project from A to Z, What an ML Engineer needs to know, Activation Functions within Neural Networks, Vectors and Matrixes, Why is Deep Learning taking off ?.
+	
+	
+	
+	
+	
+	
+	
 
 - ### Course Certificates
 
