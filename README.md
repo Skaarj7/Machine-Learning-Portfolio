@@ -5,7 +5,7 @@ Repository containing portfolio of achine Learning projects completed by me for 
 
 - ### Machine Learning Projects
 
-	- [Binary Classification with the Titanic Dataset](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/binary_classification_titanic.ipynb): An end to end machine learning project that goes among other things through Data Analysis, Data Preprocessing, building and evaluating Machine Learning models with a deep focus on the Random Forest Classifier, including Hyperparameter tuning. 
+	- [Binary Classification with the Titanic Dataset](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Binary%20Classification%20with%20the%20Titanic%20Dataset/binary_classification_titanic.ipynb): An end to end machine learning project that goes among other things through Data Analysis, Data Preprocessing, building and evaluating Machine Learning models with a deep focus on the Random Forest Classifier, including Hyperparameter tuning. 
 	- [Classification Project](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Classification_Project.ipynb): 
 	In this Notebook I covered the basics of how supervised binary & multiclass classification works. I got everything I cover in this notebook from the book "Hands-On Machine Learning with Scikit_learn & Tensorflow" from Aurelien Geron. I explained every concept in my own words and wrote the code again by myself. I used the famous mnist dataset, which contains 70,000 images of handwritten digits. 
 	- [Housing Prices with California Housing Dataset](https://github.com/Donges-Niklas/Machine-Learning-Portfolio/blob/master/Housing-Prices-with-California-Housing-Dataset.ipynb): 
