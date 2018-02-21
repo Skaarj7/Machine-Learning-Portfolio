@@ -1,5 +1,5 @@
 # Machine Learning Portfolio
-Repository containing my portfolio of Machine Learning projects, completed by me for self learning and hobby purposes. They are presented in the form of iPython Notebooks.
+Repository containing my portfolio of Machine Learning projects, completed by me for self learning and hobby purposes. They are presented in the form of Jupyter Notebooks.
 
 ## Contents
 
